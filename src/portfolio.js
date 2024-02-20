@@ -124,7 +124,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of North Texas",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/seal_of_university_of_north_texas.png"),
       subHeader: "Bachelor of Science in Digital Retailing, Minor in Consumer Experience Management",
       duration: "September 2014 - December 2019",
       desc: "Participated in the research of XXX and published 3 papers.",
