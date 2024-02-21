@@ -132,7 +132,7 @@ const workExperiences = {
     {
       role: "GDM SEO Specialist",
       company: "Gartner, Inc.",
-      companylogo: require("src/assets/images/gartnerLogo.png"),
+      companylogo: require("./assets/images/gartnerLogo.png"),
       date: "November 2021 – January 2024",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -143,7 +143,7 @@ const workExperiences = {
     {
       role: "CashForCars.com SEO Content Strategist",
       company: "Copart, Inc.",
-      companylogo: require("src/assets/images/copartLogo.png"),
+      companylogo: require("./assets/images/copartLogo.png"),
       date: "September 2019 – November 2018",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
