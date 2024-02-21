@@ -143,7 +143,7 @@ const workExperiences = {
     {
       role: "CashForCars.com SEO Content Strategist",
       company: "Copart, Inc.",
-      companylogo: require("./assets/images/Copart_logo.png"),
+      companylogo: require("/assets/images/Copart_logo.png"),
       date: "September 2019 – November 2018",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
