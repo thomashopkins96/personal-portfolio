@@ -23,7 +23,7 @@ const greeting = {
   username: "Thomas Hopkins",
   title: "Hello, I'm Thomas",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "An experienced SEO with a passion for coding, I leverage my expertise to drive organic traffic growth and enhance brand visibility for organizations big and small. With a focus on strategic SEO initiatives, data analysis, technical optimizations and internal tool development, I develop and implement innovative strategies to improve organic visbility and achieve measurable results."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1C1C4GGCWfHjfj39qfwsJeRbsbbba0WWJ/view?usp=sharing", // Set to empty to hide the button
@@ -46,14 +46,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "PASSIONATE, DATA-DRIVEN SEO WITH CODING CHOPS",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Extensive big data analysis that incorporates machine learning, AI, and NLP workflows"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Develop internal tools that enhance visibility of data that many third-part applications don't provide"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Plan, implement, and execute on white-hat SEO initiatives that deliver value for years to come"
     )
   ],
 
@@ -61,6 +61,10 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
+    {
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
+    },
     {
       skillName: "html-5",
       fontAwesomeClassname: "fab fa-html5"
@@ -78,41 +82,9 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -127,11 +99,6 @@ const educationInfo = {
       logo: require("./assets/images/seal_of_university_of_north_texas.png"),
       subHeader: "Bachelor of Science in Digital Retailing, Minor in Consumer Experience Management",
       duration: "September 2014 - December 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
     }
   ]
 };
@@ -139,7 +106,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
@@ -177,7 +144,7 @@ const workExperiences = {
       role: "CashForCars.com SEO Content Strategist",
       company: "Copart, Inc.",
       companylogo: require("./assets/images/Copart_logo.png"),
-      date: "September 2019 – November 2021",
+      date: "September 2019 – November 2018",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
