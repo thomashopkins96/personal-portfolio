@@ -132,7 +132,7 @@ const workExperiences = {
     {
       role: "GDM SEO Specialist",
       company: "Gartner, Inc.",
-      companylogo: require("./assets/images/Gartner_logo.png"),
+      companylogo: require("/assets/images/Gartner-logo.png"),
       date: "November 2021 – January 2024",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
