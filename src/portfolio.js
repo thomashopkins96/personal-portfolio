@@ -62,6 +62,25 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
+      skillName: "wordpress",
+      fontAwesomeClassname: "fa-brands fa-wordpress-simple"
+    },
+    {
+      skillName: "shopify",
+      fontAwesomeClassname: "fa-brands fa-shopify"
+    },
+    {
+      skillName: "magento",
+      fontAwesomeClassname: "fa-brands fa-magento"
+    },
+    {
+      skillName: "google search console",
+      fontAwesomeClassname: "fa-brands fa-google"
+    },
+    {
+      skillName: "screaming frog",
+    },
+    {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
