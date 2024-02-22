@@ -22,6 +22,7 @@ export default function SoftwareSkill() {
               );
             } else {
               // Render nothing if fontAwesomeClassname is not present
+              return (
               <li
                 key={i}
                 className = "software-skill-inline"
@@ -29,6 +30,7 @@ export default function SoftwareSkill() {
               >
                 <i><img src={skills.imgSource} alt={skills.altTag} /></i> 
               </li>
+              );
             }
           })}
         </ul>
