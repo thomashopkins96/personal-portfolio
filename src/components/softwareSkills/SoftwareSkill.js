@@ -8,16 +8,28 @@ export default function SoftwareSkill() {
       <div className="software-skills-main-div">
         <ul className="dev-icons">
           {skillsSection.softwareSkills.map((skills, i) => {
-            return (
+            if (skills.fontAwesomeClassname) {
+              // Render if fontAwesomeClassname is present
+              return (
+                <li
+                  key={i}
+                  className="software-skill-inline"
+                  name={skills.skillName}
+                >
+                  <i className={skills.fontAwesomeClassname}></i>
+                  <p>{skills.skillName}</p>
+                </li>
+              );
+            } else {
+              // Render nothing if fontAwesomeClassname is not present
               <li
                 key={i}
-                className="software-skill-inline"
+                className = "software-skill-inline"
                 name={skills.skillName}
               >
-                <i className={skills.fontAwesomeClassname}></i>
-                <p>{skills.skillName}</p>
+                <i><img src={skills.imgSource} alt={skills.altTag} /></i> 
               </li>
-            );
+            }
           })}
         </ul>
       </div>

@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/thomashopkins96",
   linkedin: "https://www.linkedin.com/in/whopkinsthomas/",
   gmail: "whopkinsthomas@gmail.com",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  facebook: "https://www.facebook.com/whopkinsthomas/",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -67,7 +67,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "shopify",
-      fontAwesomeClassname: "fabs fa-shopify"
+      fontAwesomeClassname: "fab fa-shopify"
     },
     {
       skillName: "magento",
@@ -78,7 +78,13 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-google"
     },
     {
+      skillName: "google analytics",
+      fontAwesomeClassname: "fab fa-google"
+    },
+    {
       skillName: "screaming frog",
+      imgSource: "./assets/images/screamingFrogLogo.svg",
+      altTag: "Screaming Frog logo"
     },
     {
       skillName: "python",
