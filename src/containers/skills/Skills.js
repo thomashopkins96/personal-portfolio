@@ -3,7 +3,6 @@ import "./Skills.scss";
 import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
 import {illustration, skillsSection} from "../../portfolio";
 import {Fade} from "react-reveal";
-import codingPerson from "../../assets/lottie/codingPerson";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import greetingRanking from "../../assets/lottie/greetingRanking";
 import StyleContext from "../../contexts/StyleContext";
@@ -23,7 +22,7 @@ export default function Skills() {
             ) : (
               <img
                 alt="Page increasing in ranking on search engine result page"
-                src={require("../../assets/lottie/greetingRanking.svg")}
+                src={require("../../assets/lottie/greetingRanking.json")}
               ></img>
             )}
           </div>
