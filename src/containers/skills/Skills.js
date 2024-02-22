@@ -5,6 +5,7 @@ import {illustration, skillsSection} from "../../portfolio";
 import {Fade} from "react-reveal";
 import codingPerson from "../../assets/lottie/codingPerson";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
+import greetingRanking from "../../assets/lottie/greetingRanking";
 import StyleContext from "../../contexts/StyleContext";
 
 export default function Skills() {
@@ -21,8 +22,8 @@ export default function Skills() {
               <DisplayLottie animationData={codingPerson} />
             ) : (
               <img
-                alt="Man Working"
-                src={require("../../assets/images/developerActivity.svg")}
+                alt="Page increasing in ranking on search engine result page"
+                src={require("../../assets/lottie/greetingRanking.svg")}
               ></img>
             )}
           </div>
