@@ -74,7 +74,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-magento"
     },
     {
-      skillName: "google search console",
+      skillName: "google search\nconsole",
       fontAwesomeClassname: "fab fa-google"
     },
     {
