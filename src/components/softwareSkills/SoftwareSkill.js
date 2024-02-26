@@ -27,7 +27,7 @@ export default function SoftwareSkill() {
                 className = "software-skill-inline"
                 name={skills.skillName}
               >
-                <i><img src={require(skills.imgSource)} alt={skills.altTag} /></i> 
+                <i><img src={skills.imgSource} alt={skills.altTag} /></i> 
               </li>
               );
             }
