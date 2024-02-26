@@ -98,20 +98,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-fire"
     },
     {
-      skillName: "brightedge",
-      fontAwesomeClassname: "fas fa-b"
-    },
-    {
-      skillName: "brightlocal",
-      fontAwesomeClassname: "fa-regular fa-location-dot"
-    },
-    {
       skillName: "inlinks",
       fontAwesomeClassname: "fas fa-link"
-    },
-    {
-      skillName: "github",
-      fontAwesomeClassname: "fab fa-github"
     },
     {
       skillName: "jira",
