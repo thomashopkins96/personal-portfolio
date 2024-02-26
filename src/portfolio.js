@@ -103,11 +103,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "brightlocal",
-      fontAwesomeClassname: "fas fa-location-dot"
+      fontAwesomeClassname: "fa-solid fa-location-dot"
     },
     {
       skillName: "inlinks",
-      fontAwesomeClassname: "fab fa-link"
+      fontAwesomeClassname: "fas fa-link"
     },
     {
       skillName: "github",
