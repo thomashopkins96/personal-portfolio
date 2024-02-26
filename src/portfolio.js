@@ -83,7 +83,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "screaming frog",
-      imgSource: "/assets/images/screamingFrogLogo.svg",
+      imgSource: "./assets/images/screamingFrogLogo.svg",
       altTag: "Screaming Frog logo"
     },
     {
