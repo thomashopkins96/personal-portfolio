@@ -210,18 +210,27 @@ const workExperiences = {
       company: "Gartner, Inc.",
       companylogo: require("./assets/images/gartnerLogo.png"),
       date: "November 2021 – January 2024",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "SEO Specialist for Capterra, a software recommendation site with 800K-1M monthly visitors.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Orchestrated a successful reversal of organic traffic decline for Capterra, restoring previous traffic levels and achieving up to a 25% increase post-recovery.",
+        "Conducted a comprehensive demand analysis utilizing approximately 70,000 queries to project total revenue for organic results, leveraging software product names and prevalent modifiers.",
+        "Created ML-based workflow that assisted in analyzing the relationship between content, topics, and subtopics.",
+        "Engineered a Google Search Console API application, enabling seamless organic search data retrieval for reporting and analysis.",
+        "Devised automated workflows for SERP competitor content analysis, leveraging machine learning technologies for enhanced insights.",
       ]
     },
     {
       role: "CashForCars.com SEO Content Strategist",
       company: "Copart, Inc.",
       companylogo: require("./assets/images/copartLogo.png"),
-      date: "September 2019 – November 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "September 2019 – November 2021",
+      desc: "SEO Content Strategist in charged of CashForCars.com entire SEO strategy, including on-page, off-page, local, and technical optimization.",
+      descBullets: [
+        "Doubled organic traffic for CashForCars.com within 9 months, reaching 40,000 monthly visitors, while enhancing user engagement with a 70% year-over-year increase in time on page.",
+        "Directed and executed local SEO initiatives for nearly 200 locations, implementing an impactful SMS campaign that boosted Google reviews by 400%.",
+        "Spearheaded a comprehensive data push to local aggregators, resulting in a 200,000+ increase in directory appearances and a 600% surge in local SEO query visibility.",
+        "Formulated and executed a robust content strategy, elevating CashForCars.com's keyword rankings by over 400%."
+      ]
     }
   ]
 };
