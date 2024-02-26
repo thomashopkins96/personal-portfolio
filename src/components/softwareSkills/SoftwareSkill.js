@@ -21,7 +21,6 @@ export default function SoftwareSkill() {
                 </li>
               );
             } else {
-              // Render nothing if fontAwesomeClassname is not present
               return (
               <li
                 key={i}
