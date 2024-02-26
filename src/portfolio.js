@@ -90,6 +90,30 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-google"
     },
     {
+      skillName: "screaming frog",
+      fontAwesomeClassname: "fab fa-frog"
+    },
+    {
+      skillName: "semrush",
+      fontAwesomeClassname: "fab fa-fire"
+    },
+    {
+      skillName: "brightedge",
+      fontAwesomeClassname: "fab fa-b"
+    },
+    {
+      skillName: "brightlocal",
+      fontAwesomeClassname: "fab fa-location-dot"
+    },
+    {
+      skillName: "inlinks",
+      fontAwesomeClassname: "fab fa-link"
+    },
+    {
+      skillName: "github",
+      fontAwesomeClassname: "fab fa-github"
+    },
+    {
       skillName: "jira",
       fontAwesomeClassname: "fab fa-jira"
     },
