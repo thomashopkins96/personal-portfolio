@@ -82,11 +82,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-google"
     },
     {
-      skillName: "screaming frog",
-      imgSource: "./assets/images/screamingFrogLogo.svg",
-      altTag: "Screaming Frog logo"
-    },
-    {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
