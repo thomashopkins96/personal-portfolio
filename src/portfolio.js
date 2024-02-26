@@ -226,7 +226,7 @@ const workExperiences = {
       date: "September 2019 – November 2021",
       desc: "SEO Content Strategist in charged of CashForCars.com entire SEO strategy, including on-page, off-page, local, and technical optimization.",
       descBullets: [
-        "Doubled organic traffic for CashForCars.com within 9 months, reaching 40,000 monthly visitors, while enhancing user engagement with a 70% year-over-year increase in time on page.",
+        "Doubled organic traffic for CashForCars.com within 9 months, reaching 40,000 monthly visitors, while increasing time-on-page by 70%",
         "Directed and executed local SEO initiatives for nearly 200 locations, implementing an impactful SMS campaign that boosted Google reviews by 400%.",
         "Spearheaded a comprehensive data push to local aggregators, resulting in a 200,000+ increase in directory appearances and a 600% surge in local SEO query visibility.",
         "Formulated and executed a robust content strategy, elevating CashForCars.com's keyword rankings by over 400%."
