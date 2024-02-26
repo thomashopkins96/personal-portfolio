@@ -91,15 +91,15 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "screaming frog",
-      fontAwesomeClassname: "fab fa-frog"
+      fontAwesomeClassname: "fa-solid fa-frog"
     },
     {
       skillName: "semrush",
-      fontAwesomeClassname: "fab fa-fire"
+      fontAwesomeClassname: "fa-solid fa-fire"
     },
     {
       skillName: "brightedge",
-      fontAwesomeClassname: "fab fa-b"
+      fontAwesomeClassname: "fa-solid fa-b"
     },
     {
       skillName: "brightlocal",
