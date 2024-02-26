@@ -103,7 +103,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "brightlocal",
-      fontAwesomeClassname: "fa-solid fa-location-dot"
+      fontAwesomeClassname: "fa-regular fa-location-dot"
     },
     {
       skillName: "inlinks",
