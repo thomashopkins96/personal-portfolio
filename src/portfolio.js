@@ -74,12 +74,44 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-magento"
     },
     {
+      skillName: "drupal",
+      fontAwesomeClassname: "fab fa-drupal"
+    },
+    {
+      skillName: "elementor",
+      fontAwesomeClassname: "fab fa-elementor"
+    },
+    {
       skillName: "google search\nconsole",
       fontAwesomeClassname: "fab fa-google"
     },
     {
       skillName: "google analytics",
       fontAwesomeClassname: "fab fa-google"
+    },
+    {
+      skillName: "jira",
+      fontAwesomeClassname: "fab fa-jira"
+    },
+    {
+      skillName: "figma",
+      fontAwesomeClassname: "fab fa-figma"
+    },
+    {
+      skillName: "salesforce",
+      fontAwesomeClassname: "fab fa-salesforce"
+    },
+    {
+      skillName: "github",
+      fontAwesomeClassname: "fab fa-github"
+    },
+    {
+      skillName: "linux",
+      fontAwesomeClassname: "fab fa-linux"
+    },
+    {
+      skillName: "ubuntu",
+      fontAwesomeClassname: "fab fa-ubuntu"
     },
     {
       skillName: "python",
@@ -98,8 +130,20 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-sass"
     },
     {
-      skillName: "JavaScript",
+      skillName: "bootstrap",
+      fontAwesomeClassname: "fab fa-bootstrap"
+    },
+    {
+      skillName: "javascript",
       fontAwesomeClassname: "fab fa-js"
+    },
+    {
+      skillName: "react",
+      fontAwesomeClassname: "fab fa-react"
+    },
+    {
+      skillName: "node",
+      fontAwesomeClassname: "fab fa-node-js"
     },
     {
       skillName: "sql-database",
