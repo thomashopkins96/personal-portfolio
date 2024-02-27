@@ -50,12 +50,11 @@ export default function Contact() {
               <SocialMedia />
             </div>
           </div>
-          <div className="contact-image-div">(
+          <div className="contact-image-div">
               <img
                 alt="Man working"
                 src={require("../../assets/images/greetingProfile.png")}
               ></img>
-            )
           </div>
         </div>
       </div>
