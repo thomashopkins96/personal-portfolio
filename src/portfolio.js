@@ -246,16 +246,17 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Midnight Mushroom Co.: Schema Automation and Optimization for Google Merchant Center",
+      projectDesc: "Automated Schema.org Markup for all products and product variants across the site enabling Google Merchant Center to more accurately parse product data. This solved many issues the company had with Merchant Center showing inaccurate pricing, variants, sizes, among many other attributes.",
       footerLink: [
-        {
+        { 
+          image: require('./assets/image/midnightMushroomCoLogo.webp'),
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://midnightmushroomco.com/"
         }
         //  you can add extra buttons here.
       ]
