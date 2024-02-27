@@ -250,11 +250,11 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
+      image: require("./assets/images/midnightMushroomCoLogo.png"),
       projectName: "Midnight Mushroom Co.: Schema Automation and Optimization for Google Merchant Center",
       projectDesc: "Automated Schema.org Markup for all products and product variants across the site enabling Google Merchant Center to more accurately parse product data. This solved many issues the company had with Merchant Center showing inaccurate pricing, variants, sizes, among many other attributes.",
       footerLink: [
         { 
-          image: require("./assets/images/midnightMushroomCoLogo.png"),
           name: "Visit Website",
           url: "https://midnightmushroomco.com/"
         }
