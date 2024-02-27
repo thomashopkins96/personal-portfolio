@@ -286,7 +286,7 @@ const achievementSection = {
     {
       title: "GA4 Certification",
       subtitle:
-        "",
+        "Certification for Google Analytics",
       image: require("./assets/images/googleAnalytics.png"),
       imageAlt: "Google Analytics Logo",
       footerLink: [
