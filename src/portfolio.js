@@ -254,7 +254,7 @@ const bigProjects = {
       projectDesc: "Automated Schema.org Markup for all products and product variants across the site enabling Google Merchant Center to more accurately parse product data. This solved many issues the company had with Merchant Center showing inaccurate pricing, variants, sizes, among many other attributes.",
       footerLink: [
         { 
-          image: require('./assets/image/midnightMushroomCoLogo.webp'),
+          image: require('./assets/image/midnightMushroomCoLogo.png'),
           name: "Visit Website",
           url: "https://midnightmushroomco.com/"
         }
