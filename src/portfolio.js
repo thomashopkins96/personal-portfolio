@@ -175,6 +175,7 @@ const educationInfo = {
       logo: require("./assets/images/seal_of_university_of_north_texas.png"),
       subHeader: "Bachelor of Science in Digital Retailing, Minor in Consumer Experience Management",
       duration: "September 2014 - December 2019",
+      desc: "UNT Digital Retailing program offers innovative and industry-relevant courses that prepare students to compete in this digital-driven retail landscape. The curriculum is structured to develop versatile digital retailing competencies in content management systems, digital platforms, digital retail analytics, digital retail strategies, social media marketing, SEO marketing, user experience, website design, and content development and strategy."
     }
   ]
 };
