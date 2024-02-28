@@ -247,12 +247,12 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "PROJECTS I HAVE WORKED ON",
   projects: [
     {
       image: require("./assets/images/midnightMushroomCoLogo.png"),
       projectName: "Midnight Mushroom Co.: Schema Automation and Optimization for Google Merchant Center",
-      projectDesc: "Automated Schema.org Markup for all products and product variants across the site enabling Google Merchant Center to more accurately parse product data. This solved many issues the company had with Merchant Center showing inaccurate pricing, variants, sizes, among many other attributes.",
+      projectDesc: "Freelance project automating Schema.org Markup for all products and product variants across the site enabling Google Merchant Center to more accurately parse product data. This solved many issues the company had with Merchant Center showing inaccurate pricing, variants, sizes, among many other attributes.",
       footerLink: [
         { 
           name: "Visit Website",
@@ -262,12 +262,35 @@ const bigProjects = {
       ]
     },
     {
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/gscApiProject.png"),
+      projectName: "Google Search Console API Data Pull Automation",
+      projectDesc: "Automated API data pull process for Google Search Console to minimize tool costs, optimize performance, and circumvent limitations of the Search Console API. Optimized for a non-technical audience and simple deployment using Google Colaboratory.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "View Notebook",
+          url: "https://colab.research.google.com/drive/1T6nqyUGnBM55LUrQyah9QBR5ERVZb6AD?usp=sharing"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/shoebuttonartistryLogo.webp"),
+      projectName: "Shoebutton Artistry: Continuous Front-End/Back-End Development",
+      projectDesc: "eCommerce website built on Shopify. Continuous front-end/back-end enhancement, technical SEO improvements, and content strategy.",
+      footerLink: [
+        {
+          name: "View Website",
+          url: "https://shoebuttonartistry.com"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/ctrAnalysisNotebook.png"),
+      projectName: "Gartner: Cross-Brand CTR Analysis",
+      projectDesc: "Google Colaboratory notebook that shows a deep-dive analysis of CTR for each of the three different GDM brands and their overlap.",
+      footerLink: [
+        {
+          name: "View Notebook",
+          url: "https://drive.google.com/file/d/1u1HGs599mGkNxaVHUy90uc2qMHq75jT7/view?usp=sharing"
         }
       ]
     }
